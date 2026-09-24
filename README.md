@@ -82,6 +82,26 @@ Research-oriented feature planned to extract structured information from lab ana
 
 ## Screenshots
 
+### Vet Workspace
+
+![Vet Workspace](screenshots/01-dashboard.png)
+
+### Animal Medical File
+
+![Animal Medical File](screenshots/02-animal-file.png)
+
+### Consultation Workflow
+
+![Consultation Workflow](screenshots/03-consultation.png)
+
+### Prescription Management
+
+![Prescription Management](screenshots/04-prescription.png)
+
+### Medication Stock
+
+![Medication Stock](screenshots/05-medication-stock.png)
+
 Screenshots can be added here after removing any private, personal, or clinic-sensitive data.
 
 ```txt
